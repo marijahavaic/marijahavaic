@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marijahavaic
 - 👀 I’m interested in Full-Stack development
-- 🌱 I’m currently learning PHP and NodeJS
-- 💞️ I’m looking for a internship form September 18th
+- 🌱 I’m currently learning Typescript and NodeJS
+- 💞️ I’m starting an internship from September 11th
 - 📫 How to reach me marija.havaic@gmail.com
 
 <!---
