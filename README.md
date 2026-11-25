@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marijahavaic
 - 👀 I’m interested in Full-Stack and Front-end development
-- 🌱 I’m currently learning React Native and NextJS
+- 🌱 I’m currently learning in-depth Backend and coding with AI
 - 📫 How to reach me marija.havaic@gmail.com
 
 <!---
